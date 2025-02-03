@@ -2,7 +2,7 @@
 
 Welcome to my collection of LeetCode solutions! This repository showcases my implementations of a wide range of LeetCode problems, focusing on various data structures, algorithms, and problem-solving techniques. Each solution is designed to be efficient, readable, and easy to understand.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kvskmurty2802?theme=unicorn&font=Adamina&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kvskmurty2802?theme=unicorn&font=Kumbh%20Sans&ext=heatmap)
 
 ## 📚 Overview
 
