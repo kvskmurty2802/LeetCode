@@ -49,6 +49,7 @@ Feel free to explore these projects and contributions!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/kvskmurty2802/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/kvskmurty2802/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -62,8 +63,10 @@ Feel free to explore these projects and contributions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kvskmurty2802/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/kvskmurty2802/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kvskmurty2802/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/kvskmurty2802/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
